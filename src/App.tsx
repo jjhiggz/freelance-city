@@ -6,6 +6,7 @@ function App() {
     <>
       <h1>Here is my main app</h1>
       <Sidebar />
+      <div>dev branch activated</div>
     </>
   );
 }
